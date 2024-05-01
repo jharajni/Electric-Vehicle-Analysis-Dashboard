@@ -9,4 +9,5 @@ Live Link: https://1drv.ms/u/c/e827518353af39cd/EaEeasBicPZCgX8UcUdWEiQBLq1sMZlG
 
 The dashboard offers a comprehensive EV analysis, emphasizing BEVs and PHEVs. It highlights the percentage distribution of each, showcasing market share insights. Additionally, it features average electric range data, top 10 EV companies, state-wise EV distribution via a map chart, and a timeline of vehicle models from 2011 to 2023 for growth pattern analysis.
 
-
+![electri vehicle_2](https://github.com/jharajni/Electric-Vehicle-Analysis-Dashboard/assets/91691412/a42dcc51-c582-402c-b1f6-72ea3649575e)
+The dynamic dashboard focuses on Aberdeen, filtering for BEVs. It updates BEV and PHEV percentages based on the filter. It displays average electric range, top EV companies, state EV distribution, and a timeline of vehicle counts from 2011 to 2023, enabling trend observation.
