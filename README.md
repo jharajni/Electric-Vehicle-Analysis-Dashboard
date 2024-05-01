@@ -5,4 +5,8 @@ To effectively analyze and understand the electric vehicle (EV) market landscape
 Proposed Solution: Power BI's robust features, including data integration, advanced analytics, and interactive visualizations, make it an ideal solution for addressing the complexities of analyzing and understanding the electric vehicle market landscape. By leveraging Power BI, stakeholders can gain comprehensive insights into the EV market, enabling informed decisions and driving the transition towards sustainable transportation solutions.
 Live Link: https://1drv.ms/u/c/e827518353af39cd/EaEeasBicPZCgX8UcUdWEiQBLq1sMZlGlK2YR3E10NzB9Q?e=yCrH0k
 
+![electric vehicle_1](https://github.com/jharajni/Electric-Vehicle-Analysis-Dashboard/assets/91691412/5a9ac99e-be53-4149-a3c3-edf2f864d39a)
+
+The dashboard offers a comprehensive EV analysis, emphasizing BEVs and PHEVs. It highlights the percentage distribution of each, showcasing market share insights. Additionally, it features average electric range data, top 10 EV companies, state-wise EV distribution via a map chart, and a timeline of vehicle models from 2011 to 2023 for growth pattern analysis.
+
 
