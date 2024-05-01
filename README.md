@@ -11,3 +11,7 @@ The dashboard offers a comprehensive EV analysis, emphasizing BEVs and PHEVs. It
 
 ![electri vehicle_2](https://github.com/jharajni/Electric-Vehicle-Analysis-Dashboard/assets/91691412/a42dcc51-c582-402c-b1f6-72ea3649575e)
 The dynamic dashboard focuses on Aberdeen, filtering for BEVs. It updates BEV and PHEV percentages based on the filter. It displays average electric range, top EV companies, state EV distribution, and a timeline of vehicle counts from 2011 to 2023, enabling trend observation.
+
+![electric vehicle_3](https://github.com/jharajni/Electric-Vehicle-Analysis-Dashboard/assets/91691412/13b087e8-351f-4a3a-9127-576eb4c41003)
+
+When Tesla is selected, the dashboard dynamically updates to reflect its impact. BEV and PHEV percentages adjust accordingly, showing Tesla's contribution. The average electric range data is updated to include Tesla's models. A map displays Tesla's dominance in vehicle distribution by state. Additionally, an area chart showcases Tesla's top vehicles by model year from 2011 to 2023, illustrating its evolution and market presence over time.
